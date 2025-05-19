@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiGeneradordeQR</string>
+    <string name="save">Save</string>
+    <string name="generate_bar">Generar Barcode</string>
+    <string name="generate_qr">Generar QR</string>
+    <string name="enter_text">Ingresar Texto</string>
+    <string name="value_required">Valor requerido</string>
+</resources>
